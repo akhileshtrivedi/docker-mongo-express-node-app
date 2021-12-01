@@ -3,9 +3,11 @@
 #### To start the application
 
 Step 1: Now you can see docker network
+
     docker network ls
     
 Step 2: Now you can create docker network
+
     docker network create mongo-network
     
 Step 3: start mongodb 
